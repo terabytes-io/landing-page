@@ -1,14 +1,14 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Terabytes> Simplify Logging'
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
+  mobile: "images/logo/logo.png"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/logo.svg"
-  desktop_height: "32px"
-  desktop_width: "120px"
+  desktop: "images/logo/logo.png"
+  desktop_height: "80px"
+  desktop_width: "250px"
 
 home: 
   limit_services: 6
