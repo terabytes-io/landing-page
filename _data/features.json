@@ -1,7 +1,7 @@
 [
   {
-    "title": "Client SDK",
-    "description": "Unified low-code client logging SDK for any Analytics or ML backend.",
+    "title": "Tracking Spec",
+    "description": "Auto-generate and maintain your Tracking spec without spreadsheets.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,7 +9,7 @@
     }
   },
   {
-    "title": "End to End Tests",
+    "title": "Automatic Data Quality",
     "description": "So you never question the integrity of your client events.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Logging Process",
-    "description": "Helps PMs, Data Teams and Client Engineers maintain events.",
+    "title": "Code Generation",
+    "description": "Generates code for tracking automatically based on the Tracking Plan.",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,

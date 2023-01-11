@@ -4,7 +4,7 @@ layout: home
 description: High quality event instrumentation for analytics and machine learning 
 intro_image: "images/illustrations/banner.jpg"
 intro_image_absolute: true 
-intro_image_hide_on_mobile: true
+intro_image_hide_on_mobile: false
 #show_call_box: false
 ---
 
